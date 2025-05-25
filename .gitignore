@@ -1,0 +1,5 @@
+my-venv
+*.db
+hw2/mlruns/*
+hw2/artifacts/*
+hw2/output
