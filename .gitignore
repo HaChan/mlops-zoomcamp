@@ -1,5 +1,8 @@
 my-venv
 *.db
-hw2/mlruns/*
+*/mlruns/*
 hw2/artifacts/*
 hw2/output
+__pycache__
+hw3/*.parquet
+hw3/*.pkl
