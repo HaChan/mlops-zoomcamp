@@ -6,3 +6,7 @@ hw2/output
 __pycache__
 hw3/*.parquet
 hw3/*.pkl
+data/green_tripdata_2024-03.parquet
+data/reference.parquet
+models/
+workspace/
