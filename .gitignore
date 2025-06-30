@@ -10,3 +10,8 @@ data/green_tripdata_2024-03.parquet
 data/reference.parquet
 models/
 workspace/
+hw6/output/
+hw6/__pycache__/
+hw6/model.bin
+hw6/volume/
+hw6/2023-01.parquet
